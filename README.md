@@ -6,7 +6,7 @@ All the attendees need to finish the prework by following this Readme.
 
 1. Have MATLAB R2024a pre-release installed on your desktop
 
-2. Create a GitHub Account by using your Mathworks email: https://github.com/ if you didn't have a account
+2. Create a GitHub Account by using your Mathworks email: https://github.com/ if you don't have an account
 
 3. Download Git binary from Mathworks Software Center and install it if you don't have it
 
