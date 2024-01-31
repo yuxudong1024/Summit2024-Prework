@@ -12,6 +12,6 @@ All the attendees need to finish the prework by following this Readme.
 
 4. Use `git clone https://github.com/yuxudong1024/Summit2024-Prework` command to clone this repo
 
-5. In the MATLAB command window, run `mex convet.c` to compile a mex file, if that fails, you need to install MATLAB compiler and Visual Studio 2019 if you didn't do so. You can download Visual Studio 2019 Community from [Microsoft Store](Windows-store.png), in the installation, please select the [C++ support](visual-studio-2019.png)
+5. In the MATLAB command window, run `mex convet.c` to compile a mex file, if that fails, you need to install MATLAB compiler and Visual Studio 2019 if you didn't do so. You can download Visual Studio 2019 Community from ![Microsoft Store](Windows-store.png), in the installation, please select the ![C++ support](visual-studio-2019.png)
 
-6. Fork this repo inyo your own account (fork.png)
+6. ![Fork this repo inyo your own account] (fork.png)
