@@ -12,7 +12,7 @@ All the attendees need to finish the prework by following this Readme.
 
 4. Use `git clone https://github.com/yuxudong1024/Summit2024-Prework` command to clone this repo, you can create a folder like git in your one drive to put all your repos there.
 
-5. In the MATLAB command window, run `mex convec.c` to compile a mex file. If it works, then you can go to next step, if that fails, you need to install MATLAB compiler and MinGW compiler if you didn't do so. You can do it though MATLAB Add-Ons. ![MinGW](MinGW.png) ![Compiler](Compiler.png)
+5.  Goto the folder you have the repo has been cloned, in the MATLAB command window, run `mex convec.c` to compile a mex file. If it works, then you can go to next step, if that fails, you need to install MATLAB compiler and MinGW compiler if you didn't do so. You can do it though MATLAB Add-Ons. ![MinGW](MinGW.png) ![Compiler](Compiler.png)
    After that, run `mex -setup` to setup the compiler in MATLAB and make sure `mex convet.c` command works.
 
 8. Fork this repo into your own account. ![fork](fork.png)
