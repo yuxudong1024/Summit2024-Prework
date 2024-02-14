@@ -19,8 +19,10 @@ All the attendees need to finish the prework by following this Readme.
     MATLAB Test:![MATLAB Test](MATLAB-Test.png)
    After that, run `mex -setup` to setup the compiler in MATLAB and make sure `mex convet.c` command works.
 
-8. Fork this repo into your own account. ![fork](fork.png)
+6. Fork this repo into your own account. ![fork](fork.png)
 
-9. Use git to clone your forked repo, and make some change at readme file. Use MATLAB to commit the change and push the change. ![push](push.png)
+7. Use git to clone your forked repo, and make some change at readme file. Use MATLAB to commit the change and push the change. ![push](push.png)
 
-10. This action will start a pop-up window in the browser to ask for your username and password for GitHub, after you type it, MATLAB will remember it and you don't need to type it anymore.
+8. This action will start a pop-up window in the browser to ask for your username and password for GitHub, after you type it, MATLAB will remember it and you don't need to type it anymore.
+
+9. Please don't use MATLAB New Desktop, it doesn't support the project with git well now.
