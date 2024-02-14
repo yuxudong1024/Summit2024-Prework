@@ -4,7 +4,7 @@ This is for AE 2024 PFT Summit preparation: Software Development Workflows
 
 All the attendees need to finish the prework by following this Readme.
 
-1. Have MATLAB R2024a pre-release installed on your desktop
+1. Have MATLAB R2024a pre-release installed on your desktop, we assume that you are using Windows Desktop and not using the New MATLAB Desktop.
 
 2. Create a GitHub Account by using your Mathworks email: https://github.com/ if you don't have an account
 
@@ -25,4 +25,3 @@ All the attendees need to finish the prework by following this Readme.
 
 8. This action will start a pop-up window in the browser to ask for your username and password for GitHub, after you type it, MATLAB will remember it and you don't need to type it anymore.
 
-9. Please don't use MATLAB New Desktop, it doesn't support the project with git well now.
