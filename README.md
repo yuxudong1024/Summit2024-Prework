@@ -10,8 +10,12 @@ All the attendees need to finish the prework by following this Readme.
 
 3. Download Git binary from Mathworks Software Center and install it if you don't have it
 
-4. Use `git clone https://github.com/yuxudong1024/Summit2024-Prework` command to clone this repo, you can create a folder like git in your one drive to put all your repos there.
-
+4. Start MATLAB R2024a, in the `file explorer` tab of MATLAB create a new floder
+   Folder:![folder](floder.png) 
+   And go inside to this folder, use right click of mouse to clone this prework repo
+   GitClone1:![GitClone1](GitClone1.png) 
+   GitClone1:![GitClone1](GitClone1.png)
+   MATLAB may ask your git account email and password, type it and clone the repo
 5.  Goto the folder you have the repo has been cloned, in the MATLAB command window, run `mex convec.c` to compile a mex file. If it works, then you can go to next step, if that fails, you need to install MATLAB compiler, compiler SDK, MATLAB Test and MinGW compiler if you didn't do so. You can do it though MATLAB Add-Ons. 
     MinGW:![MinGW](MinGW.png) 
     Compiler:![Compiler](Compiler.png)
