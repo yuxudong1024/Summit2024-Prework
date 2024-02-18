@@ -24,11 +24,13 @@ All the attendees need to finish the prework by following this Readme.
 
     MinGW:![MinGW](MinGW.png) 
     Compiler:![Compiler](Compiler.png)
+
+    After that, run `mex -setup` to setup the compiler in MATLAB and make sure `mex convet.c` command works.
+
 6. Install compiler SDK and MATLAB Test if you didn't install it
 
     Compiler SDK:![Compiler-SDK](Compiler-SDK.png)
     MATLAB Test:![MATLAB Test](MATLAB-Test.png)
-   After that, run `mex -setup` to setup the compiler in MATLAB and make sure `mex convet.c` command works.
 
 7. Fork this repo into your own account. ![fork](fork.png)
 
