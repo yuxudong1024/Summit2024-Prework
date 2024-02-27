@@ -16,7 +16,7 @@ All the attendees need to finish the prework by following this Readme.
 5. Start MATLAB R2024a, in the `file explorer` tab of MATLAB create a new folder
    ![folder](folder.png)
  
-   Go inside this folder, and use right click of the mouse to clone this prework repo
+   Go inside this folder, and use right click of the mouse to clone ypur forked repo
    ![GitClone1](GitClone1.png) 
    ![GitClone2](GitClone2.png)
 
