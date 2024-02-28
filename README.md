@@ -36,5 +36,13 @@ All the attendees need to finish the prework by following this Readme.
 
 8. Make some changes to this readme file in your cloned repo. Use MATLAB to commit the change and push the change. ![push](push.png)
 
-9. This action will start a pop-up window in the browser to ask for your username and password for GitHub, after you type it, MATLAB will remember it and you don't need to type it anymore.
+9. This action will start a pop-up window in the browser to ask for your username and password for GitHub, after you type it, MATLAB will remember it and you don't need to type it anymore. However, if your github account have been set a while ago, you may get username and password unmatch error, you can replace your password with token, here are steps:
+
+  Goto Setting:![token1](token1.png)
+
+  Goto Developer Setting:![token2](token2.png)
+
+  Create Token:![token3](token3.png)
+
+
 
