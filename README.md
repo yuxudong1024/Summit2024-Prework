@@ -22,12 +22,12 @@ All the attendees need to finish the prework by following this Readme.
 
    MATLAB may ask for your git account email and password, type it, and clone the repo.
 
-6. Goto the folder you have the repo has been cloned, in the MATLAB command window, run `mex convec.c` to compile a mex file. If it works, then you can go to next step, if that fails, you need to install MATLAB compiler and MinGW compiler if you didn't do so. You can do it though MATLAB Add-Ons. 
+6. Goto the folder you have the repo has been cloned, in the MATLAB command window, run `mex convec.c` to compile a mex file. If it works, then you can go to next step, if that fails, you need to install MATLAB compiler and MinGW compiler if you didn't do so. You can do so by running `installMinGW` from the command line or through MATLAB Add-Ons. 
 
     MinGW:![MinGW](MinGW.png) 
     Compiler:![Compiler](Compiler.png)
 
-    After that, run `mex -setup` to setup the compiler in MATLAB and make sure `mex convet.c` command works.
+    After that, run `mex -setup` to setup the compiler in MATLAB and make sure `mex convec.c` command works.
 
 7. Install compiler SDK and MATLAB Test if you didn't install it
 
