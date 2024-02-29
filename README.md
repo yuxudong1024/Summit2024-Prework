@@ -21,15 +21,15 @@ All steps need to be completed prior to the start of the tutorial held during th
 4. Start MATLAB R2024a.  Create a new folder in the `Current Folder` tab of MATLAB and name it Test
    ![folder](folder.png)
  
-   Change MATLAB directory to Test  Right click and select **Source Control > Manage Files...**
+   Change the MATLAB directory to Test.  Right click and select **Source Control > Manage Files...**
    ![GitClone1](GitClone1.png)
 
    Change **Repository path** to your forked repo (e.g., https://github.com/wyu/Summit2024-Prework)
-   ![GitClone2](GitClone2.png).  Click **Retrieve**.
+   ![GitClone2](GitClone2.png)  Click **Retrieve**.
 
-   MATLAB may prompt you for your GitHub account email and password.  Type it and clone the repo.
+   MATLAB may prompt you for your GitHub account email and password.  Enter it and clone the repo.
 
-5. From within MATLAB, make a small modification to this README file in your cloned repo. Use MATLAB to commit and push the change.
+5. From within MATLAB, make a small edit to this README file in your cloned repo. Use MATLAB to commit and push the change.
    
 6. Right click on README.md.  Click **Source Control > View and Commit Changes...**  ![push](push.png)
    
