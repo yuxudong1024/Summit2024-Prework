@@ -3,9 +3,11 @@
 This is for AE 2024 PFT Summit preparation: Software Development Workflows
 
 **Tutorial Requirements**
-<p>All the attendees need to finish the prework by following this README.  Ensure you have all [Required Products](#required-products) installed before getting started.</p>
-<p>**Note: This is tutorial is built for Windows only**</p>
 
+All the attendees need to finish the prework by following this README.  Ensure you have all [Required Products](#required-products) installed before getting started.</p>
+**Note: This is tutorial is built for Windows only**
+
+   
 **Getting Started**
 1. Create a GitHub Account by using your Mathworks email: `https://github.com`.  Ensure that the Git email setting **Block command line pushes that expose my email** is not enabled
    ![gitemail](gitemail.png) 
