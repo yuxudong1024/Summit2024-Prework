@@ -11,33 +11,33 @@ All steps need to be completed prior to the start of the tutorial held during th
 1. Create a GitHub account (https://github.com) using your MathWorks email.  Ensure that the GitHub email setting **Block command line pushes that expose my email** is not enabled
    ![gitemail](gitemail.png) 
 
-2. Fork this repo (https://github.com/yuxudong1024/Summit2024-Prework) into your own account ![fork](fork.png)
+2. Fork this repo (https://github.com/yuxudong1024/Summit2024-Prework) into your own account
+   
+   ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/04944520-92e1-4e56-950b-f9f979e3251e)
 
 3. Click **Create fork**
    ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/8f82847a-94b7-4f5b-b946-03f4e5477d0a)
 
    Save the URL of this forked repo (e.g., https://github.com/wyu/Summit2024-Prework) for later.
    
-4. Start MATLAB R2024a.  Create a new folder in the `Current Folder` tab of MATLAB and name it Test
-   ![folder](folder.png)
- 
-   Change the MATLAB directory to Test.  Right click and select **Source Control > Manage Files...**
-   ![GitClone1](GitClone1.png)
+4. Start MATLAB R2024a.  Create a new folder in the `Current Folder` tab of MATLAB and name it Test.  Change the MATLAB directory to Test.  Right click and select **Source Control > Manage Files...**
+  ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/82331997-d2e7-4412-bfe4-4b3497e489d1)
 
    Change **Repository path** to your forked repo (e.g., https://github.com/wyu/Summit2024-Prework)
-   ![GitClone2](GitClone2.png)  Click **Retrieve**.
+   ![GitClone2](GitClone2.png)
 
-   MATLAB may prompt you for your GitHub account email and password.  Enter it and clone the repo.
+   Click **Retrieve**.  MATLAB may prompt you for your GitHub account email and password.  Enter it and clone the repo.
 
-5. From within MATLAB, make a small edit to this README file in your cloned repo. Use MATLAB to commit and push the change.
+6. From within MATLAB, make a small edit to this README file in your cloned repo.
    
-6. Right click on README.md.  Click **Source Control > View and Commit Changes...**  ![push](push.png)
+7. From within MATLAB, commit and push the change.  Right click on README.md.  Click **Source Control > View and Commit Changes...**
+   ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/bc3a097e-e39c-4697-b070-e225db1b3403)
    
-7. Enter a Comment and then click **Commit**.
+8. Enter a Comment and then click **Commit**.
 
-![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/4c011776-f20a-404b-9193-8e8b6e327f30)  
+![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/ebfb0dcf-aa8a-4515-bef3-e0a90b715bc3)
 
-8. A pop-up window in a browser will prompt you for your username and password for GitHub.  After entering them, MATLAB will store it. If your GitHub account was set some time ago, you may get a notice that your username and password are mismatched.  Replace your password with a token, following these steps:
+9. A pop-up window in a browser will prompt you for your username and password for GitHub.  After entering them, MATLAB will store it. If your GitHub account was set some time ago, you may get a notice that your username and password are mismatched.  Replace your password with a token, following these steps:
 
   Goto Setting:![token1](token1.png)
 
