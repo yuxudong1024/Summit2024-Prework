@@ -34,7 +34,7 @@ All steps need to be completed prior to the start of the tutorial held during th
    
 7. Enter a Comment and then click **Commit**.
 
-![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/ebfb0dcf-aa8a-4515-bef3-e0a90b715bc3)
+   ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/ebfb0dcf-aa8a-4515-bef3-e0a90b715bc3)
 
 8. From within MATLAB, push the change.  Right click on README.md.  Click **Source Control > Push**
    
@@ -63,9 +63,9 @@ All steps need to be completed prior to the start of the tutorial held during th
    ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/5350db40-5fb4-4464-be37-0e35ec060949)
 4. **MATLAB Test**
    ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/c4a609a0-c011-41c5-87ba-79e49766eb50)
-5. **Git** (e.g., from MathWorks Software Center)
-   ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/b57387e8-2329-4512-b80b-9ece18ceb1bc)
-6. **C compiler** (e.g., MinGW, Visual Studio C/C++ compiler, etc.)
+5. **C compiler** (e.g., MinGW, Visual Studio C/C++ compiler, etc.)
    ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/89e2de73-f1d6-4c11-b7e3-3be23f195b87)
 
      Run `mex -setup` to setup the compiler in MATLAB.  Run `mex convec.c` to ensure you can compile MEX-files.
+6. **Git** (e.g., from MathWorks Software Center)
+   ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/b57387e8-2329-4512-b80b-9ece18ceb1bc)
