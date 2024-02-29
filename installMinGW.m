@@ -1,7 +1,7 @@
 function installMinGW
 
 if ~ispc
-    disp('Only supporting Windows')
+    disp('Only supported on Windows')
     return
 end
 
