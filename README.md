@@ -1,47 +1,45 @@
 # Summit2024-Prework
 
-This is for AE 2024 PFT Summit preparation: Software Development Workflows
+Preperation for 2024 PFT Summit: **Software Development Workflows**
 
 **Tutorial Requirements**
 
-All the attendees need to finish the prework by following this README.  Ensure you have all [Required Products](#required-products) installed before getting started.</p>
-**Note: This is tutorial is built for Windows only**
+All steps need to be completed prior to the start of the tutorial held during the Summit.  Ensure you have all [Required Products](#required-products) installed before getting started.</p>
+**Note: This tutorial is built for Windows only**
 
-   
 **Getting Started**
-1. Create a GitHub Account by using your Mathworks email: `https://github.com`.  Ensure that the Git email setting **Block command line pushes that expose my email** is not enabled
+1. Create a GitHub account (https://github.com) using your MathWorks email.  Ensure that the GitHub email setting **Block command line pushes that expose my email** is not enabled
    ![gitemail](gitemail.png) 
 
-4. Fork this repo (https://github.com/yuxudong1024/Summit2024-Prework) into your own account ![fork](fork.png)
+2. Fork this repo (https://github.com/yuxudong1024/Summit2024-Prework) into your own account ![fork](fork.png)
 
-5. And then click **Create fork**
+3. Click **Create fork**
    ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/8f82847a-94b7-4f5b-b946-03f4e5477d0a)
 
    Save the URL of this forked repo (e.g., https://github.com/wyu/Summit2024-Prework) for later.
    
-6. Start MATLAB R2024a.  Create a new folder in the `Current Folder` tab of MATLAB and name it Test
+4. Start MATLAB R2024a.  Create a new folder in the `Current Folder` tab of MATLAB and name it Test
    ![folder](folder.png)
  
-   Change directories into Test, right click, and select **Source Control > Manage Files...**
+   Change MATLAB directory to Test  Right click and select **Source Control > Manage Files...**
    ![GitClone1](GitClone1.png)
 
    Change **Repository path** to your forked repo (e.g., https://github.com/wyu/Summit2024-Prework)
-   ![GitClone2](GitClone2.png)  Click **Retrieve**.
+   ![GitClone2](GitClone2.png).  Click **Retrieve**.
 
-   MATLAB may prompt you for your Git account email and password.  Type it and clone the repo.
+   MATLAB may prompt you for your GitHub account email and password.  Type it and clone the repo.
 
-7. From within MATLAB, make a small modification to this README file in your cloned repo. Use MATLAB to commit and push the change.
+5. From within MATLAB, make a small modification to this README file in your cloned repo. Use MATLAB to commit and push the change.
    
-9. Right click on README.md.  Click **Source Control > View and Commit Changes...**  ![push](push.png)
+6. Right click on README.md.  Click **Source Control > View and Commit Changes...**  ![push](push.png)
    
-11. Enter Comment and then click **Commit**.
+7. Enter a Comment and then click **Commit**.
 
 ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/4c011776-f20a-404b-9193-8e8b6e327f30)  
 
-14. A pop-up window in a browser will prompt your for your username and password for GitHub.  , after you type it, MATLAB will remember it and you don't need to type it anymore. However, if your github account have been set a while ago, you may get username and password unmatch error, you can replace your password with token, here are steps:
+8. A pop-up window in a browser will prompt you for your username and password for GitHub.  After entering them, MATLAB will store it. If your GitHub account was set some time ago, you may get a notice that your username and password are mismatched.  Replace your password with a token, following these steps:
 
   Goto Setting:![token1](token1.png)
-
 
   Goto Developer Setting:![token2](token2.png)
 
