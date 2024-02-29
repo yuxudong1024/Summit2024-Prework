@@ -20,7 +20,7 @@ All steps need to be completed prior to the start of the tutorial held during th
 
    Save the URL of this forked repo (e.g., https://github.com/wyu/Summit2024-Prework) for later.
    
-4. Start MATLAB R2024a.  Create a new folder in the `Current Folder` tab of MATLAB, name it Test and change MATLAB the directory to it.  Right click and select **Source Control > Manage Files...**
+4. Start MATLAB R2024a.  Create a new folder in the `Current Folder` of MATLAB, name it Test and change the MATLAB directory to it.  Right click and select **Source Control > Manage Files...**
   ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/82331997-d2e7-4412-bfe4-4b3497e489d1)
 
    Change **Repository path** to your forked repo (e.g., https://github.com/wyu/Summit2024-Prework)
@@ -54,7 +54,7 @@ All steps need to be completed prior to the start of the tutorial held during th
 1. **MATLAB R2024a pre-release** installed (without using the MATLAB New Desktop with Java Script)
 2. **MATLAB Compiler**
    ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/e86a998c-cb97-4fec-ac4b-1535c6ea8dca)
-3.** MATLAB Compiler SDK**
+3. **MATLAB Compiler SDK**
    ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/5350db40-5fb4-4464-be37-0e35ec060949)
 4. **MATLAB Test**
    ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/c4a609a0-c011-41c5-87ba-79e49766eb50)
@@ -63,4 +63,4 @@ All steps need to be completed prior to the start of the tutorial held during th
 6. **C compiler** (e.g., MinGW, Visual Studio C/C++ compiler, etc.)
    ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/89e2de73-f1d6-4c11-b7e3-3be23f195b87)
 
-  Run  `mex -setup` to setup the compiler in MATLAB.  Run `mex convec.c` to ensure you can compile MEX-files.
+     Run `mex -setup` to setup the compiler in MATLAB.  Run `mex convec.c` to ensure you can compile MEX-files.
