@@ -8,11 +8,10 @@ All steps need to be completed prior to the start of the tutorial held during th
 **Note: This tutorial is built for Windows only**
 
 **Getting Started**
-1. Create a GitHub account (https://github.com) using your MathWorks email.  Ensure that the GitHub email setting **Block command line pushes that expose my email** is not enabled
+1. Create a GitHub account (https://github.com) using your MathWorks email.  Click on your photo up in the right hand corner.  Click **Settings**.  On the left hands side, click **Emails**.  If the option exists, ensure that the GitHub email setting **Block command line pushes that expose my email** is not enabled.  
    ![gitemail](gitemail.png) 
 
 2. Fork this repo (https://github.com/yuxudong1024/Summit2024-Prework) into your own account
-   
    ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/04944520-92e1-4e56-950b-f9f979e3251e)
 
 3. Click **Create fork**
@@ -30,24 +29,30 @@ All steps need to be completed prior to the start of the tutorial held during th
 
 5. From within MATLAB, make a small edit to this README file in your cloned repo.
    
-6. From within MATLAB, commit and push the change.  Right click on README.md.  Click **Source Control > View and Commit Changes...**
+6. From within MATLAB, commit the change.  Right click on README.md.  Click **Source Control > View and Commit Changes...**
    ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/bc3a097e-e39c-4697-b070-e225db1b3403)
    
 7. Enter a Comment and then click **Commit**.
 
 ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/ebfb0dcf-aa8a-4515-bef3-e0a90b715bc3)
 
-8. A pop-up window in a browser will prompt you for your username and password for GitHub.  After entering them, MATLAB will store it. If your GitHub account was set some time ago, you may get a notice that your username and password are mismatched.  Replace your password with a token, following these steps:
+8. From within MATLAB, push the change.  Right click on README.md.  Click **Source Control > Push**
+   
+   ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/d9fd87d9-416c-48aa-926a-683f32545e92)
 
-  Click on your photo up in the right hand corner.  Click **Settings**
+9. A pop-up window in a browser will prompt you for your username and password for GitHub.  After entering them, MATLAB will store it. If your GitHub account was set some time ago, you may get a notice that your username and password are mismatched.  Replace your password with a token, following these steps:
+
+  * Click on your photo up in the right hand corner.  Click **Settings**
   ![token1](token1.png)
 
-  On the left hand side, click **Developer settings**
+  * On the left hand side, click **Developer settings**
   ![token2](token2.png)
 
-  On the left hand side, click **Personal access tokens > Tokens (classic)**.  Click **Generate new token > Generate new token (classic)**
+  * On the left hand side, click **Personal access tokens > Tokens (classic)**.  Click **Generate new token > Generate new token (classic)**
   ![token3](token3.png)
 
+   Reauthenticate your GitHub account with your username and generated token.  Alternatively, you can store your credetials in a Git credential helper (e.g., Git Credential Manager Core).
+   
 ***
 
 ## Required Products
